@@ -140,7 +140,7 @@ Endpoint: POST api/Absensis/:id/reject
 
 Request url:
 ```
-http://localhost:3000/api/Absensis/6432e4689eeb4cdbdb4a4c8e/approve
+http://localhost:3000/api/Absensis/6432e4689eeb4cdbdb4a4c8e/reject
 ```
 
 Response:
