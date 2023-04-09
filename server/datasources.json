@@ -1,0 +1,13 @@
+{
+  "assist": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/assist",
+    "database": "assist",
+    "password": "",
+    "name": "assist",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
